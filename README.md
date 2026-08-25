@@ -1,2 +1,1 @@
-# Construcci-n-de-software-y-toma-de-decisiones
-Actividades de la clase
+# Construccion-de-software-y-toma-de-decisiones
