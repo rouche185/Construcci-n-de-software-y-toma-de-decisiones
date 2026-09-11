@@ -102,6 +102,27 @@ footer p {
     font-size: 0.95rem;
 }
 
+/* Tema oscuro activado desde JavaScript (script.js) */
+body.tema-oscuro {
+    background-color: #16202b;
+    color: #dfe6ee;
+}
+
+body.tema-oscuro .caja-contenido,
+body.tema-oscuro .card {
+    background-color: #1f2d3d;
+    color: #dfe6ee;
+}
+
+body.tema-oscuro p {
+    color: #c3ccd6;
+}
+
+body.tema-oscuro h1,
+body.tema-oscuro h2 {
+    color: #ffffff;
+}
+
 @media (max-width: 576px) {
     img {
         width: 130px;
